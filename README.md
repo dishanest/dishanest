@@ -1,0 +1,12 @@
+# heyo! ✌️
+
+i'm han, a mobile developer currently studying cs @ cornell university. 
+
+## welcome to my portfolio. 
+
+_this section is still under construction_ 😅
+
+## check out the orgs i'm involved in!
+- <img src="https://github.com/dishanest/dishanest/blob/main/applovinlogo.png" height="15" title="appdevlogo"> [AppLovin](https://www.applovin.com)  
+- <img src="https://github.com/dishanest/dishanest/blob/main/appdevlogo.png" height="15" title="appdevlogo"> [Cornell AppDev](https://www.cornellappdev.com)  
+- <img src="https://github.com/dishanest/dishanest/blob/main/omakaselogo.png" height="15" title="appdevlogo"> [Omakase](https://github.com/omakaseapp)  
